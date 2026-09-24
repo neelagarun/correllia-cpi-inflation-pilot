@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+venv/
+
+# diagnostic plots from cpi_lstm_v4.py -- not used by the app, regenerated on retrain
+loss_curves.png
+pred_vs_actual_h*.png
